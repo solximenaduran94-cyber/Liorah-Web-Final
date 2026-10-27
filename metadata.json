@@ -1,0 +1,8 @@
+{
+  "name": "Remix LIORAH Invitaciones Digitales",
+  "description": "Boutique de invitaciones digitales interactivas para bodas, XV años, baby shower y celebraciones con tienda online, personalizador en vivo y pasarela de pagos.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
